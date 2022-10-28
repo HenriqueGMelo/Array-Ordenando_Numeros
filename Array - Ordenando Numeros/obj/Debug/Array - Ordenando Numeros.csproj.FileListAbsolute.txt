@@ -1,0 +1,8 @@
+C:\Users\Henrique\Documents\Atividades C#\Array - Ordenando Números\Array - Ordenando Numeros\Array - Ordenando Numeros\bin\Debug\Array - Ordenando Numeros.exe.config
+C:\Users\Henrique\Documents\Atividades C#\Array - Ordenando Números\Array - Ordenando Numeros\Array - Ordenando Numeros\bin\Debug\Array - Ordenando Numeros.exe
+C:\Users\Henrique\Documents\Atividades C#\Array - Ordenando Números\Array - Ordenando Numeros\Array - Ordenando Numeros\bin\Debug\Array - Ordenando Numeros.pdb
+C:\Users\Henrique\Documents\Atividades C#\Array - Ordenando Números\Array - Ordenando Numeros\Array - Ordenando Numeros\obj\Debug\Array - Ordenando Numeros.csproj.AssemblyReference.cache
+C:\Users\Henrique\Documents\Atividades C#\Array - Ordenando Números\Array - Ordenando Numeros\Array - Ordenando Numeros\obj\Debug\Array - Ordenando Numeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Henrique\Documents\Atividades C#\Array - Ordenando Números\Array - Ordenando Numeros\Array - Ordenando Numeros\obj\Debug\Array - Ordenando Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\Atividades C#\Array - Ordenando Números\Array - Ordenando Numeros\Array - Ordenando Numeros\obj\Debug\Array - Ordenando Numeros.exe
+C:\Users\Henrique\Documents\Atividades C#\Array - Ordenando Números\Array - Ordenando Numeros\Array - Ordenando Numeros\obj\Debug\Array - Ordenando Numeros.pdb
